@@ -1,0 +1,49 @@
+{
+  "logs": [
+    {
+      "message": "Fixed Kunle's Brain",
+      "attention": true,
+      "tech": "John Doe",
+      "date": "2022-09-02T14:09:12.651Z",
+      "id": 1
+    },
+    {
+      "message": "fixed a new bypass hydra",
+      "attention": true,
+      "tech": "Sara Smith",
+      "date": "2022-09-02T15:01:36.107Z",
+      "id": 2
+    },
+    {
+      "message": "fixed current webflow ",
+      "attention": false,
+      "tech": "Victor Markov",
+      "date": "2022-09-02T15:01:54.087Z",
+      "id": 3
+    },
+    {
+      "message": "current wave battery fixed",
+      "attention": false,
+      "tech": "Laura Adams",
+      "date": "2022-09-02T15:02:40.056Z",
+      "id": 4
+    }
+  ],
+  "techs": [
+    {
+      "id": 2,
+      "firstName": "Sam",
+      "lastName": "Smith"
+    },
+    {
+      "id": 3,
+      "firstName": "Sara",
+      "lastName": "Wilson"
+    },
+    {
+      "firstName": "Liman",
+      "lastName": "Musa",
+      "id": 4
+    }
+  ]
+}
